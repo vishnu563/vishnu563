@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Vishnuprasanth</h1>
 <h3 align="center">Web Developer | Tech Enthusiast ✨</h3>
 <br>
-<br>
+
 - 📫 How to reach me: vishnuprasanth050603@gmail.com
 
 - 💻 Passionate about Web Development
