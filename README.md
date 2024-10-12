@@ -9,9 +9,17 @@ Web Developer | Tech Enthusiast ✨
 
 ---
 
-### Connect with me:
-- [LinkedIn](https://linkedin.com/in/your-link)
+<br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishnuprasanth563/"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="indhumathi" height="30" width="40" /></a>
+  
+</p>
+
+<br>
 ---
 
 ### Languages and Tools:
