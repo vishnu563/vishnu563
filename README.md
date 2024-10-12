@@ -46,12 +46,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="border-radius: 50%;" />
   </a>
-
-  <!-- GitHub (white logo for dark mode) -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-white.svg" alt="github" width="40" height="40" style="border-radius: 50%;" />
-  </a>
 </p>
+
 ---
 
 <h3>Statistical Data :-</h3>
