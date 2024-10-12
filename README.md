@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="250" style="border-radius:10px"  src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <br>
 
-- 📫 How to reach me: vishnuprasanth050603@gmail.com
+- 📫 How to reach me : vishnuprasanth050603@gmail.com
 
 - 💻 Passionate about Web Development.
 
@@ -16,7 +16,7 @@
 
 ---
 
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left">Connect with me :</h3>
   <p align="left">
     <a href="https://www.linkedin.com/in/vishnuprasanth563/"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -27,7 +27,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
     <img src="https://skillicons.dev/icons?i=nodejs,java,vscode,github,git" /><br>
@@ -35,7 +35,7 @@
 
 ---
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu563&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Vishnu" 
