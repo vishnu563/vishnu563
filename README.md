@@ -12,7 +12,7 @@
 
 - 💻 Passionate about Web Development.
 
-- 👽 Becoming a full-stack web developer.
+- 👽 Becoming a full-stack Developer.
 
 ---
 
