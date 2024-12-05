@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools :</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,mongodb" />
-    <img src="https://skillicons.dev/icons?i=expressjs,tailwindcss,java,vscode,github,git," /><br>
+    <img src="https://skillicons.dev/icons?i=expressjs,tailwindcss,java,vscode,github,git,postman" /><br>
 </div>
 
 ---
