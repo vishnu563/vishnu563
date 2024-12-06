@@ -21,11 +21,9 @@
     <a href="https://www.linkedin.com/in/vishnuprasanth563/">
         <img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="vishnu" height="30" width="40" />
-    </a>
+        alt="vishnu" height="30" width="40" /></a>
     <a href="https://instagram.com/vish.nu_56" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vish.nu_56"         height="30" width="40" />
-    </a>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vish.nu_56"         height="30" width="40" /></a>
 </p>
 
 ---
