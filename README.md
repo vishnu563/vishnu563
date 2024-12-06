@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=vishnu563&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=7000&lines=Hey+👋,+I'm+Vishnuprasanth+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?    font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=7000&lines=Hey+👋,+I'm+Vishnuprasanth+!;" />
 </h1>
 
 <h3 align="center">Web Developer | Tech Enthusiast ✨</h3>
@@ -16,14 +16,17 @@
 
 ---
 
-  <h3 align="left">Connect with me :</h3>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/vishnuprasanth563/"><img align="center"
+<h3 align="left">Connect with me :</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/vishnuprasanth563/">
+        <img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="vishnu" height="30" width="40" /></a>
-    <a href="https://instagram.com/vish.nu_56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vish.nu_56" height="30" width="40" /></a>
-  </p>
-
+        alt="vishnu" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/vish.nu_56" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vish.nu_56"         height="30" width="40" />
+    </a>
+</p>
 
 ---
 
