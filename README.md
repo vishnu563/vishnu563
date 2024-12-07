@@ -9,10 +9,10 @@
 <br>
 
 - 📫 How to reach me : vishnuprasanth050603@gmail.com
+  
+- 🌐 Passionate MERN Stack Developer.
 
-- 💻 Passionate about Web Development.
-
-- 👽 Becoming a full-stack Developer.
+- 🌍 Bringing innovation to full-stack development with the MERN ecosystem.
 
 ---
 
