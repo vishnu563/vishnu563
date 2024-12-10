@@ -1,11 +1,10 @@
 [![](https://visitcount.itsvg.in/api?id=vishnu563&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=7000&lines=Hey+👋,+I'm+Vishnuprasanth+!;" />
-</h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=7000&lines=Hey+👋,+I'm+Vishnuprasanth+!;" /></h1>
 
 <h3 align="center">Web Developer | Tech Enthusiast ✨</h3>
-<img align="right" alt="Coding" width="250" style="border-radius:10px"  src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <br>
 
 - 📫 How to reach me : vishnuprasanth050603@gmail.com
