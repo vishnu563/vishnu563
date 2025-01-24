@@ -1,7 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=vishnu563&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=7000&lines=Hey+👋,+I'm+Vishnuprasanth+!;" /></h1>
 
