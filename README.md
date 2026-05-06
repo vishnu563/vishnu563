@@ -75,9 +75,6 @@ const vishnu = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vishnu563&label=Profile%20Views&color=0e75b6&style=flat)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnu563&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu563&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-
 </div>
 
 <div align="center">
